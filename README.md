@@ -1,5 +1,5 @@
-# TemplateLatexIFSDUESTEMG-CampusMuriae - v1.0.0
-- Modelo de Apresentação utlizado em disciplinas do curso de Gestão de Tecnologia da Informação do IF SUDESTE MG - Campus Muriaé (modelo não oficial)
+# TemplateLatexIFSDUESTEMG-CampusMuriae - v1.0.1
+- Modelo de Apresentação utilizado em disciplinas do curso de Gestão de Tecnologia da Informação do IF SUDESTE MG - Campus Muriaé (modelo não oficial)
 
 ## Observações:
 

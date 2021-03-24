@@ -14,7 +14,8 @@
 % ------------------------------------------------------------------------------- % 
 
 \documentclass{presentation-beamer}
-
+\usepackage{subfig}
+\usepackage{bibentry}
 % --------------------------------------------------- %
 %                  Presentation info	              %
 % --------------------------------------------------- %
@@ -368,6 +369,24 @@ def code():
   return None     
 \end{lstlisting}
 
+\end{frame}
+
+\section{Bibliography}
+\subsection{Citation}
+\begin{frame}[fragile] % Need to use the fragile option when verbatim is used in the slide
+\frametitle{Citation}
+An example of the \verb|\cite| command to cite within the presentation:\\~
+
+This statement requires citation \cite{ah2006}.~\cite{aetal2018} 
+\end{frame}
+
+% --------------------------------------------------- %
+%                  References       	              %
+% --------------------------------------------------- %
+\begin{frame}[t, allowframebreaks]
+\frametitle{References}
+\bibliographystyle{apalike}
+\bibliography{references} %External reference file (references.bib)
 \end{frame}
 
 \end{document}

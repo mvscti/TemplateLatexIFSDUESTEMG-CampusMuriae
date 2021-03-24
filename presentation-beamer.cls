@@ -1,4 +1,3 @@
-
 % ------------------------------------------------------------------------------- %
 %                                    LICENSE   	                                  %
 % ------------------------------------------------------------------------------- %
@@ -15,7 +14,7 @@
 % ------------------------------------------------------------------------------- % 
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{presentation-beamer}[07/03/2021, v1.0.0]
+\ProvidesClass{presentation-beamer}[21/03/2021, v1.0.1]
 
 \PassOptionsToPackage{svgnames}{xcolor}
 \LoadClass[compress, 8pt]{beamer}
@@ -553,8 +552,4 @@
 %   {7}{{{\color{CodeOrange}7}}}1
 %   {8}{{{\color{CodeOrange}8}}}1
 %   {9}{{{\color{CodeOrange}9}}}1
-<<<<<<< HEAD
 % }
-=======
-% }
->>>>>>> root
