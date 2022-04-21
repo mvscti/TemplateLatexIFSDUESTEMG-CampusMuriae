@@ -17,4 +17,4 @@ Para selecionar as cores desejadas, basta alterar as linhas abaixo, no arquivo p
 
 ## Licença
 
-Este projeto está licenciado sob a licença GPU-v3 - consulte o arquivo [LICENSE] em https://github.com/mvscti/TemplateLatexIFSDUESTEMG-CampusMuriae/blob/main/LICENSE.
+Este projeto está licenciado sob a licença GPU-v3 - consulte o arquivo [LICENSE] em https://github.com/mvscti/TemplateLatexIFSUDESTEMG-CampusMuriae/blob/main/LICENSE.
